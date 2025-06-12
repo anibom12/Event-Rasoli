@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\bin\Debug\net9.0\Adaptor.exe
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\bin\Debug\net9.0\Adaptor.deps.json
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\bin\Debug\net9.0\Adaptor.runtimeconfig.json
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\bin\Debug\net9.0\Adaptor.dll
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\bin\Debug\net9.0\Adaptor.pdb
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.dll
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\refint\Adaptor.dll
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.pdb
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\Adaptor.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Adapter\Adaptor\Adaptor\obj\Debug\net9.0\ref\Adaptor.dll

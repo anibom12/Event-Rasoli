@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.exe
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.deps.json
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.runtimeconfig.json
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.dll
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.pdb
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.dll
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\refint\Factory Method.dll
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.pdb
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Factory Method\Factory Method\Factory Method\obj\Debug\net9.0\ref\Factory Method.dll

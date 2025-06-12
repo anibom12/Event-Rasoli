@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\bin\Debug\net9.0\Chain of Resposibility.exe
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\bin\Debug\net9.0\Chain of Resposibility.deps.json
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\bin\Debug\net9.0\Chain of Resposibility.runtimeconfig.json
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\bin\Debug\net9.0\Chain of Resposibility.dll
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\bin\Debug\net9.0\Chain of Resposibility.pdb
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.dll
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\refint\Chain of Resposibility.dll
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.pdb
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\Chain of Resposibility.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Chain of Resposibility\Chain of Resposibility\Chain of Resposibility\obj\Debug\net9.0\ref\Chain of Resposibility.dll
